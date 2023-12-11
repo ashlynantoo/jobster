@@ -1,6 +1,6 @@
 ## Jobster
 
-A job application tracking website developed using react, redux tool kit, react query, react router and styled components.
+A job application tracking website developed using react, react router, redux tool kit, react query, and styled components. The user can add job applications, update the status of these job applications, and view all the applications.
 
 Demo - [Jobster](https://ashlynz-jobster.netlify.app)
 
